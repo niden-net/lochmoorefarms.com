@@ -1,2 +1,2 @@
-# lochmoosefarms.com
-Loch Moose Farms website
+# lochmoorefarms.com
+Loch Moore Farms website
